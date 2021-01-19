@@ -1,18 +1,17 @@
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-30 21:50+0200\n"
-"PO-Revision-Date: 2021-01-14 12:32+0000\n"
-"Last-Translator: an p <anastasiapapacosta@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/i-hate-money/"
-"i-hate-money/el/>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
 "Language: el\n"
+"Language-Team: none\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgid ""
@@ -63,37 +62,37 @@ msgid "Admin password"
 msgstr ""
 
 msgid "Send me the code by email"
-msgstr "Στείλε μου τον κωδικό μέσω εμάιλ"
+msgstr ""
 
 msgid "This project does not exists"
-msgstr "Το πρότζεκτ αυτό δεν υπάρχει"
+msgstr ""
 
 msgid "Password mismatch"
-msgstr "Ο κωδικός δεν ταιριάζει"
+msgstr ""
 
 msgid "Password"
-msgstr "Κωδικός"
+msgstr ""
 
 msgid "Password confirmation"
-msgstr "Επιβεβαίωση κωδικού"
+msgstr ""
 
 msgid "Reset password"
-msgstr "Επαναφορά κωδικού"
+msgstr ""
 
 msgid "Date"
-msgstr "Ημερομηνία"
+msgstr ""
 
 msgid "What?"
-msgstr "Τι?"
+msgstr ""
 
 msgid "Payer"
-msgstr "Πληρωτής"
+msgstr ""
 
 msgid "Amount paid"
-msgstr "Πληρωμένο ποσό"
+msgstr ""
 
 msgid "Currency"
-msgstr "Νόμισμα"
+msgstr ""
 
 msgid "External link"
 msgstr ""
@@ -102,13 +101,13 @@ msgid "A link to an external document, related to this bill"
 msgstr ""
 
 msgid "For whom?"
-msgstr "Για ποιόν?"
+msgstr ""
 
 msgid "Submit"
-msgstr "Υπόβαλε"
+msgstr ""
 
 msgid "Submit and add a new one"
-msgstr "Υπόβαλέ το και πρόσθεσε ένα καινούριο"
+msgstr ""
 
 #, python-format
 msgid "Project default: %(currency)s"
@@ -118,7 +117,7 @@ msgid "Bills can't be null"
 msgstr ""
 
 msgid "Name"
-msgstr "Όνομα"
+msgstr ""
 
 msgid "Weights should be positive"
 msgstr ""
@@ -127,44 +126,42 @@ msgid "Weight"
 msgstr ""
 
 msgid "Add"
-msgstr "Πρόσθεσε"
+msgstr ""
 
 msgid "User name incorrect"
-msgstr "Λανθασμένο όνομα χρήστη"
+msgstr ""
 
 msgid "This project already have this member"
-msgstr "Το πρότζεκτ έχει ήδη αυτό το μέλος"
+msgstr ""
 
 msgid "People to notify"
-msgstr "Άτομα να ειδοποιήσεις"
+msgstr ""
 
 msgid "Send invites"
-msgstr "Στείλε πρόσκληση"
+msgstr ""
 
 #, python-format
 msgid "The email %(email)s is not valid"
 msgstr ""
 
 msgid "Participant"
-msgstr "Συμμέτοχος"
+msgstr ""
 
 msgid "Bill"
-msgstr "Λογαριασμός"
+msgstr ""
 
 msgid "Project"
-msgstr "Πρότζεκτ"
+msgstr ""
 
 msgid "No Currency"
-msgstr "Κανένα νόμισμα"
+msgstr ""
 
 msgid "Too many failed login attempts, please retry later."
-msgstr "Πάρα πολλές αποτυχημένες προσπάθειες σύνδεσης, δοκιμάστε ξανά αργότερα."
+msgstr ""
 
 #, python-format
 msgid "This admin password is not the right one. Only %(num)d attempts left."
 msgstr ""
-"Αυτός ο κωδικός διαχειριστή δεν είναι σωστός. Μένουν μόνο %(num)d "
-"προσπάθειες."
 
 msgid "You either provided a bad token or no project identifier."
 msgstr ""
@@ -177,14 +174,12 @@ msgid "You have just created '%(project)s' to share your expenses"
 msgstr ""
 
 msgid "A reminder email has just been sent to you"
-msgstr "Ένα εμάιλ υπενθύμισης μόλις σας στάλθηκε"
+msgstr ""
 
 msgid ""
 "We tried to send you an reminder email, but there was an error. You can "
 "still use the project normally."
 msgstr ""
-"Προσπαθήσαμε να σας στείλουμε ένα εμάιλ υπενθύμισης, αλλά υπήρξε ένα λάθος. "
-"Μπορείτε ακόμα να χρησιμοποιήσετε το πρότζεκτ κανονικά."
 
 #, python-format
 msgid "The project identifier is %(project)s"
@@ -203,10 +198,10 @@ msgid "Invalid token"
 msgstr ""
 
 msgid "Unknown project"
-msgstr "Άγνωστο πρότζεκτ"
+msgstr ""
 
 msgid "Password successfully reset."
-msgstr "Επαναφορά του κωδικού επιτυχώς."
+msgstr ""
 
 msgid "Project successfully uploaded"
 msgstr ""
@@ -215,14 +210,14 @@ msgid "Invalid JSON"
 msgstr ""
 
 msgid "Project successfully deleted"
-msgstr "Το πρότζεκτ διαγράφηκε επιτυχώς"
+msgstr ""
 
 #, python-format
 msgid "You have been invited to share your expenses for %(project)s"
 msgstr ""
 
 msgid "Your invitations have been sent"
-msgstr "Οι προσκλήσεις έχουν σταλθεί"
+msgstr ""
 
 msgid ""
 "Sorry, there was an error while trying to send the invitation emails. "
@@ -253,7 +248,7 @@ msgid "User '%(name)s' has been edited"
 msgstr ""
 
 msgid "The bill has been added"
-msgstr "Ο λογαριασμός προστέθηκε"
+msgstr ""
 
 msgid "The bill has been deleted"
 msgstr ""
@@ -788,3 +783,4 @@ msgstr ""
 #~ "is by the server, so don\\'t reuse"
 #~ " a personal password!"
 #~ msgstr ""
+
